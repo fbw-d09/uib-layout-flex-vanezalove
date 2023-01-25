@@ -3,6 +3,11 @@
 body {
   border: 5px solid red;
 }
+section {
+  display: flex;
+justify-content: center;
+}
+
 
 div {
   flex-shrink: 1;

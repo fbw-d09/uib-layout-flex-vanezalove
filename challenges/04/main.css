@@ -5,6 +5,12 @@ body {
   border: 5px solid red;
 }
 
+section {
+  display: flex;
+  align-items: flex-end;
+  height: 100%;
+}
+
 div {
   height: 100px;
   width: 150px;
